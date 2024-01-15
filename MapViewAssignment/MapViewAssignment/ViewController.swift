@@ -45,9 +45,9 @@ class ViewController: UIViewController {
         )
         let total = UIAlertAction(
             title: "전체 보기",
-            style: .default,
+            style: .default
             
-        ),
+        )
         let cancel = UIAlertAction(
             title: "취소",
             style: .cancel
